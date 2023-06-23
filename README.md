@@ -1,1 +1,0 @@
-# ozdek.github.io
