@@ -1,4 +1,3 @@
-# ozdek.github.io
 # Amazon Fire Cihazları
 
 Fire TV Güncel Cihazlar:
