@@ -3,7 +3,7 @@ output: .retype
 url: ozdek.github.io # Add your website address here
 branding:
   title: Fire Cihazları Yardım Masası
-  label: Docs
+  label: Yardım
 links:
   - text: Amazon
     link: https://amazon.com
