@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: ozdek.github.io # Add your website address here
+branding:
+  title: Fire Cihazları Yardım Masası
+  label: Docs
+links:
+  - text: Getting Started
+    link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright . All rights reserved."
