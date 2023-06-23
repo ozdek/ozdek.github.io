@@ -7,5 +7,6 @@ Fire TV Güncel Cihazlar:
 
 ## Fire Cube 3
 
-- Kurulum
+### - Kurulum
 Amerika adres ekleme adımları:
+## Fire 4K Max
